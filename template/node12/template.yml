@@ -7,5 +7,5 @@ welcome_message: |
   npm documentation: https://docs.npmjs.com/
 
   Unit tests are run at build time via "npm run", edit package.json to specify 
-  how you want to execute them.
+  how you would want to execute them.
 
